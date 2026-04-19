@@ -41,5 +41,88 @@ This system:
 - 🌐 Interactive Dashboard (Streamlit)
 
 ---
+data/
+├── retail_data.csv
+
+preprocessing.py
+features.py
+model.py
+inventory.py
+visualization.py
+main.py
+app.py
+requirements.txt
+README.md
+
+
+---
+
+## ▶️ How to Run
+
+### 1️⃣ Install Dependencies
+
+pip install -r requirements.txt
+
+
+### 2️⃣ Run Main Project
+
+python main.py
+
+
+### 3️⃣ Run Dashboard
+
+streamlit run app.py
+
+
+---
+
+## 📊 Results
+
+- Model MAE: ~1.6 (high accuracy)
+- Accurate demand forecasting
+- Optimized inventory decisions
+- Reduced stockout risk
+
+---
+
+## 📸 Screenshots
+
+### 📈 Sales Trend
+![Sales](sales_trend.png)
+
+### 📊 Actual vs Predicted
+![Forecast](actual_vs_predicted.png)
+
+### 📌 Feature Importance
+![Feature](feature_importance.png)
+
+### 🌐 Dashboard
+![Dashboard](dashboard.png)
+
+---
+
+## 💼 Business Impact
+- Improves demand planning
+- Reduces excess inventory
+- Prevents stockouts
+- Supports data-driven decision making
+
+---
+
+## 🚀 Future Improvements
+- Multi-store forecasting
+- Advanced models (XGBoost, LSTM)
+- Real-time data integration
+- Weather & promotion impact analysis
+
+---
+
+## 👨‍💻 Author
+**Jatin Gujarathi**
+
+---
+
+## ⭐ If you like this project
+Give it a star ⭐ on GitHub!
 
 ## 📁 Project Structure
