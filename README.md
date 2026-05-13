@@ -86,21 +86,13 @@ streamlit run app.py
 ---
 
 ## 📸 Screenshots
+## Dashboard
 
-### 📈 Sales Trend
-![Sales](sales_trend.png)
+![Dashboard](images/dashboard.png)
 
-### 📊 Actual vs Predicted
-![Forecast](actual_vs_predicted.png)
+## Forecast Graph
 
-### 📌 Feature Importance
-![Feature](feature_importance.png)
-
-### 🌐 Dashboard
-![Dashboard](dashboard.png)
-
----
-
+![Forecast](images/forecast.png)
 ## 💼 Business Impact
 - Improves demand planning
 - Reduces excess inventory
